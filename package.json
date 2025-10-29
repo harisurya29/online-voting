@@ -4,7 +4,11 @@
   "private": true,
   "overrides": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@types/react": "^18.2.0",
+    "react-google-maps": {
+      "@types/react": "^18.2.0"
+    }
   },
   "dependencies": {
     "@emotion/cache": "^11.11.0",
